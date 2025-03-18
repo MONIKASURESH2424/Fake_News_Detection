@@ -1,5 +1,5 @@
 # Fake_News_Detection
-# Fake News Detector
+
 
 ## Introduction
 The **Fake News Detector** is a machine learning-based solution designed to classify news articles as real or fake. It leverages **TF-IDF vectorization** for text processing and **Naive Bayes classification** for prediction. The model is trained on labeled data and evaluates its performance using various metrics.
